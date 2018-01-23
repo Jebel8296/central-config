@@ -18,3 +18,7 @@ jhipster:
 logging:
     path: /tmp
     file: ${spring.application.name}.log
+security:
+    user:
+        name: admin
+        password: password
